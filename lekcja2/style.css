@@ -1,0 +1,20 @@
+.title{
+    text-align: center;
+}
+.subtitle{
+    justify-content: space-around;
+    display: flex
+        
+    
+
+}
+.footer{
+    text-align: right;
+}
+.content{
+    display:flex;
+    justify-content: center;
+}
+div{
+    padding: 10% 0;
+}
