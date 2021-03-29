@@ -1,0 +1,78 @@
+body{
+    background-color: blue;
+}
+.header{
+    background-color: burlywood;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.nav{
+    margin-left: 30%;
+
+     background-color: cornsilk;
+}
+.menu{
+    display: flex;
+    justify-content: space-evenly;
+}
+.logo{
+      text-align: center;
+}
+.contener{border:2px solid deeppink;
+
+}
+.wykres1{
+    border: 5px solid darkred;
+    height: 2in;
+    display: flex;
+    justify-content: space-evenly;
+}
+.slupek{
+    border: 2px solid darkviolet;
+    width: 10%;
+}
+.s1{
+    height :1in;
+}
+.s2{
+    height :2in;
+}
+.s3{
+    height:1.5in;
+}
+.s4{
+    height:0.5in;
+}
+.wykres2{
+    border:3px darksalmon;
+    height: 2in;
+    display: flex;
+    flex-direction: column;
+    background-color: darkslategrey;
+    justify-content: space-evenly;
+}
+.s1pion{
+    background-color: darkturquoise;
+    height:0.25in;
+}
+.s1{
+    width: 10px;
+}
+.s2{
+    width: 20px;
+}
+.s3{
+    width: 30px;
+}
+.s4{
+    width: 40px;
+}
+.logo{ background-image: url(logo_sprites.jpg);
+width 500px;
+height200px;
+}
+.logo:hover{ background-position: 0-200px;
+}
+.logo:active{
+    background-position: 0-400px;
+}
