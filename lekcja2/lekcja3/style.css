@@ -5,10 +5,12 @@ body{
     background-color: burlywood;
     padding-top: 20px;
     padding-bottom: 20px;
+    display:flex;
+    justify-content: flex-end;
 }
 .nav{
-    margin-left: 30%;
-
+    
+width: 500px;
      background-color: cornsilk;
 }
 .menu{
@@ -67,9 +69,9 @@ body{
 .s4{
     width: 40px;
 }
-.logo{ background-image: url(logo_sprites.jpg);
-width 500px;
-height200px;
+.logo{ background-image: url(https://raw.githubusercontent.com/apietry);
+width: 500px;
+height:200px;
 }
 .logo:hover{ background-position: 0-200px;
 }
