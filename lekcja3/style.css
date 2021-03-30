@@ -69,7 +69,8 @@ width: 500px;
 .s4{
     width: 40px;
 }
-.logo{ background-image: url(https://raw.githubusercontent.com/apietryhttps://raw.githubusercontent.com/apietry);
+.logo{ 
+background-image: url(https://raw.githubusercontent.com/apietryga/kurs-Front-end/master/materialy/lekcja2/cw1/logo_sprites.jpg);
 width: 500px;
 height:200px;
 }
