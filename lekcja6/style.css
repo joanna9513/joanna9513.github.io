@@ -1,0 +1,41 @@
+body{
+background-image: url( double-bubble-dark.png);
+color: white;
+}
+.topHeader{
+    text-align: center;
+}
+.topNav{
+    display: flex;
+    justify-content: space-evenly;
+
+}
+.content{
+    display: flex;
+
+}
+main{
+    border:2px solid powderblue;
+    flex: 2;
+    padding: 1%;
+}
+img{max-width: 100%;}
+aside{ 
+    border:2px dashed orange;
+    flex:1;
+    padding: 1%;
+}
+.recomend{
+    border: 2px solid yellow;
+    flex:1;
+    padding: 1%;
+    background-color: rgba(red, green, blue, alpha)
+
+}
+p{
+    margin:0;
+}
+.polecane{
+    border:2px dashed blue;
+    margin-top: 3%;
+}
