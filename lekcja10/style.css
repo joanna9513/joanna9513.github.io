@@ -1,5 +1,5 @@
 body{
-    background-color: blue;
+    background-color: rgb(94, 94, 109);
 }
 *{
     box-sizing: border-box;
@@ -22,38 +22,32 @@ div{
     margin: 3vw;
 }
 .absolutne{
-    border: 10px solid red;
+    border: 10px solid rgb(189, 90, 140);
     position:absolute;
     width:100%;
     height:100%;
-    background-color: yellow;
+    background-color: rgb(233, 233, 10);
     background-size: cover;
+    text-align: center;
 }
 .img1{
-    background-image: url(https://joanna9513.github.io/lekcja9/);
+    background-image: url(img/1.jpg);
 }
-.clickable:active{
+.clickable:hover{
     opacity:0;
     transition:1s;
+
 }
 .img2{
-background-image: url( https://joanna9513.github.io/lekcja8/);
+background-image: url( img/2.jpg);
 }
-.clickable:active{
-    opacity: 0;
-    transition: 1s;
-}
+
+
 .img3{
-    background-image: url(https://joanna9513.github.io/lekcja7/);
+    background-image: url(img/3.jpg/);
 }
-.clickable:active{
-    opacity: 0;
-    transition: 1s;
-}
+
 .img4{
-    background-image: url(https://joanna9513.github.io/lekcja6/);
+    background-image: url(img/4.jpg/);
 }
-.clickable:active{
-    opacity: 0;
-    transition: 1s;
-}
+
