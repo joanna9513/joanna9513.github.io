@@ -11,9 +11,6 @@ body{
     justify-content: space-evenly;
 
 }
-div{ 
-    display:block;
-}
 .relative{
     border: 10px solid rosybrown;
     height: 30vw;
